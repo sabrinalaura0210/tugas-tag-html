@@ -1,4 +1,5 @@
 # tugas-tag-html
+```html
 10 contoh tag html dan fungsinya
 1. Tag <html> digunakan untuk menandai awal dan akhir dari sebuah dokumen HTML. Semua isi halaman web harus berada di dalam tag ini.
 2. Tag <head> berfungsi untuk menyimpan informasi tentang halaman, seperti judul, metadata, dan pengaturan lainnya yang tidak langsung terlihat di halaman.
@@ -10,3 +11,4 @@
 8. Tag <img> digunakan untuk menampilkan gambar pada halaman web.
 9. Tag <ul> dan <li> digunakan untuk membuat daftar. <ul> adalah wadah daftar, sedangkan <li> adalah setiap item di dalam daftar tersebut.                                                                        
 10. Tag <div> digunakan untuk mengelompokkan beberapa elemen HTML agar lebih mudah diatur atau diberi gaya
+```
